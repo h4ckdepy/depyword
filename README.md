@@ -2,6 +2,8 @@
 
 一个用于渗透测试、安全服务报告生成的系统。
 
+在线使用地址:https://blog.happysec.cn/depyword/
+
 # Others
 
 博客：https://blog.happysec.cn/
